@@ -1,4 +1,4 @@
-source/*python*/usr/lib/
+source/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
